@@ -1,5 +1,11 @@
 # @shopify/cli-hydrogen
 
+## 4.0.7
+
+### Patch Changes
+
+- Show available upgrades for CLI when creating new projects. ([#518](https://github.com/Shopify/hydrogen/pull/518)) by [@frandiox](https://github.com/frandiox)
+
 ## 4.0.6
 
 ### Patch Changes
